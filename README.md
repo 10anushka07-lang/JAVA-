@@ -1,6 +1,7 @@
 # JAVA-PROBLEM SET 
 **BASIC PROGRAMS**<br>
-1.Input a year and find whether it is a leap year or not.<br>
+1.Input a year and find whether it is a leap year or not.
+https://www.geeksforgeeks.org/problems/leap-year0943/1<br>
 2.Take two numbers and print the sum of both.<br>
 3.Take a number as input and print the multiplication table for it.
 https://www.geeksforgeeks.org/problems/print-table0303/1<br>
