@@ -5,7 +5,7 @@ https://www.geeksforgeeks.org/problems/leap-year0943/1<br>
 2.Take two numbers and print the sum of both.<br>
 3.Take a number as input and print the multiplication table for it.
 https://www.geeksforgeeks.org/problems/print-table0303/1<br>
-4.Take 2 numbers as inputs and find their HCF and LCM.<br>
+4.Take 2 numbers as inputs and find their HCF and LCM.https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1<br>
 5.Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.<br>
 6.Write a program to print whether a number is even or odd, also take input from the user.<br>
 7.Take name as input and print a greeting message for that particular name.<br>
