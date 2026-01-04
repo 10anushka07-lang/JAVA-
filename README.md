@@ -10,7 +10,7 @@ https://www.geeksforgeeks.org/problems/print-table0303/1<br>
 6.Write a program to print whether a number is even or odd, also take input from the user.
 https://www.geeksforgeeks.org/problems/even-odd/1<br>
 7.Take name as input and print a greeting message for that particular name.<br>
-8.Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.<br>
+8.Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.https://www.geeksforgeeks.org/problems/simple-interest3457/1<br>
 9.Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)<br>
 10.Take 2 numbers as input and print the largest number.<br>
 11.Input currency in rupees and output in USD.<br>
