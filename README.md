@@ -1,4 +1,4 @@
-# JAVA-PROBLEM SET 
+# JAVA-PROBLEM SET - IN this repository I have included all the questions from basic to intermediate to advance for programming in java, with links of websites where you can practice , I will keep on adding questions as I continue to solve them
 **BASIC PROGRAMS**<br>
 1.Input a year and find whether it is a leap year or not.
 https://www.geeksforgeeks.org/problems/leap-year0943/1<br>
