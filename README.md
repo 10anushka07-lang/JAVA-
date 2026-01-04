@@ -17,6 +17,7 @@ https://www.geeksforgeeks.org/problems/even-odd/1<br>
 12.To calculate Fibonacci Series up to n numbers.-https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1<br>
 13.To find out whether the given String is Palindrome or not.- https://www.geeksforgeeks.org/problems/palindrome-string0817/1
 https://leetcode.com/problems/palindrome-number/description/<br>
+14.Check whether a given no. is prime or not -https://www.geeksforgeeks.org/problems/prime-number2314/1<br>
 https://leetcode.com/problems/reverse-words-in-a-string/description/<br>
 14.To find Armstrong Number between two given number.-https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1<br>
 
